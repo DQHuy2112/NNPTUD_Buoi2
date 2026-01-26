@@ -1,0 +1,206 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Chào mừng đến với Node.js (Đã cập nhật)",
+      "content": "Nội dung đã được cập nhật",
+      "author": "Admin",
+      "createdAt": "2026-01-26T08:00:00.000Z",
+      "isDeleted": false
+    },
+    {
+      "id": "2",
+      "title": "Hướng dẫn JavaScript cơ bản",
+      "content": "JavaScript là ngôn ngữ lập trình phổ biến",
+      "author": "Teacher",
+      "createdAt": "2026-01-26T08:05:00.000Z",
+      "isDeleted": false
+    },
+    {
+      "id": "3",
+      "title": "Làm việc với Arrays",
+      "content": "Arrays trong JavaScript rất mạnh mẽ",
+      "author": "Student",
+      "createdAt": "2026-01-26T08:10:00.000Z",
+      "isDeleted": false
+    },
+    {
+      "id": "4",
+      "title": "Chào mừng đến với Node.js",
+      "content": "Đây là bài viết đầu tiên về Node.js",
+      "author": "Admin",
+      "createdAt": "2026-01-26T09:07:21.274Z",
+      "isDeleted": false
+    },
+    {
+      "id": "5",
+      "title": "Hướng dẫn JavaScript cơ bản",
+      "content": "JavaScript là ngôn ngữ lập trình phổ biến",
+      "author": "Teacher",
+      "createdAt": "2026-01-26T09:07:21.323Z",
+      "isDeleted": false
+    },
+    {
+      "id": "6",
+      "title": "Làm việc với Arrays",
+      "content": "Arrays trong JavaScript rất mạnh mẽ",
+      "author": "Student",
+      "createdAt": "2026-01-26T09:07:21.382Z",
+      "isDeleted": false
+    },
+    {
+      "id": "7",
+      "title": "Bài viết mới nhất",
+      "content": "Nội dung bài viết mới",
+      "author": "Author",
+      "createdAt": "2026-01-26T09:07:22.757Z",
+      "isDeleted": false
+    },
+    {
+      "id": "8",
+      "title": "Chào mừng đến với Node.js",
+      "content": "Đây là bài viết đầu tiên về Node.js",
+      "author": "Admin",
+      "createdAt": "2026-01-26T09:12:42.611Z",
+      "isDeleted": false
+    },
+    {
+      "id": "9",
+      "title": "Hướng dẫn JavaScript cơ bản",
+      "content": "JavaScript là ngôn ngữ lập trình phổ biến",
+      "author": "Teacher",
+      "createdAt": "2026-01-26T09:12:42.673Z",
+      "isDeleted": false
+    },
+    {
+      "id": "10",
+      "title": "Làm việc với Arrays",
+      "content": "Arrays trong JavaScript rất mạnh mẽ",
+      "author": "Student",
+      "createdAt": "2026-01-26T09:12:42.722Z",
+      "isDeleted": false
+    },
+    {
+      "id": "11",
+      "title": "Bài viết mới nhất",
+      "content": "Nội dung bài viết mới",
+      "author": "Author",
+      "createdAt": "2026-01-26T09:12:44.555Z",
+      "isDeleted": false
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": "1",
+      "content": "Bài viết rất hay! (Đã chỉnh sửa)",
+      "author": "User1",
+      "createdAt": "2026-01-26T08:15:00.000Z"
+    },
+    {
+      "id": "3",
+      "postId": "2",
+      "content": "Tôi đã học được nhiều điều",
+      "author": "User3",
+      "createdAt": "2026-01-26T08:25:00.000Z"
+    },
+    {
+      "id": "4",
+      "postId": "1",
+      "content": "Bài viết rất hay!",
+      "author": "User1",
+      "createdAt": "2026-01-26T09:07:21.442Z"
+    },
+    {
+      "id": "5",
+      "postId": "1",
+      "content": "Cảm ơn bạn đã chia sẻ",
+      "author": "User2",
+      "createdAt": "2026-01-26T09:07:21.524Z"
+    },
+    {
+      "id": "6",
+      "postId": "2",
+      "content": "Tôi đã học được nhiều điều",
+      "author": "User3",
+      "createdAt": "2026-01-26T09:07:21.609Z"
+    },
+    {
+      "id": "7",
+      "postId": "2",
+      "content": "Cần thêm ví dụ thực tế",
+      "author": "User4",
+      "createdAt": "2026-01-26T09:07:21.666Z"
+    },
+    {
+      "id": "8",
+      "postId": "3",
+      "content": "Arrays thật sự rất hữu ích",
+      "author": "User1",
+      "createdAt": "2026-01-26T09:07:21.725Z"
+    },
+    {
+      "id": "9",
+      "postId": "1",
+      "content": "Comment mới sau khi cập nhật post",
+      "author": "User5",
+      "createdAt": "2026-01-26T09:07:22.164Z"
+    },
+    {
+      "id": "10",
+      "postId": "4",
+      "content": "Comment đầu tiên cho post mới",
+      "author": "User6",
+      "createdAt": "2026-01-26T09:07:22.997Z"
+    },
+    {
+      "id": "11",
+      "postId": "1",
+      "content": "Bài viết rất hay!",
+      "author": "User1",
+      "createdAt": "2026-01-26T09:12:42.790Z"
+    },
+    {
+      "id": "12",
+      "postId": "1",
+      "content": "Cảm ơn bạn đã chia sẻ",
+      "author": "User2",
+      "createdAt": "2026-01-26T09:12:42.831Z"
+    },
+    {
+      "id": "13",
+      "postId": "2",
+      "content": "Tôi đã học được nhiều điều",
+      "author": "User3",
+      "createdAt": "2026-01-26T09:12:42.923Z"
+    },
+    {
+      "id": "14",
+      "postId": "2",
+      "content": "Cần thêm ví dụ thực tế",
+      "author": "User4",
+      "createdAt": "2026-01-26T09:12:43.011Z"
+    },
+    {
+      "id": "15",
+      "postId": "3",
+      "content": "Arrays thật sự rất hữu ích",
+      "author": "User1",
+      "createdAt": "2026-01-26T09:12:43.090Z"
+    },
+    {
+      "id": "16",
+      "postId": "1",
+      "content": "Comment mới sau khi cập nhật post",
+      "author": "User5",
+      "createdAt": "2026-01-26T09:12:43.724Z"
+    },
+    {
+      "id": "17",
+      "postId": "4",
+      "content": "Comment đầu tiên cho post mới",
+      "author": "User6",
+      "createdAt": "2026-01-26T09:12:44.859Z"
+    }
+  ]
+}

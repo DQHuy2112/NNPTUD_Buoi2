@@ -1,10 +1,10 @@
 {
-    "name": "nnptud-buoi1",
+    "name": "nnptud-buoi2",
     "version": "1.0.0",
-    "description": "Bài tập về Product objects trong Node.js",
-    "main": "src/baitap1.js",
+    "description": "Bài tập quản lý Posts và Comments trong Node.js",
+    "main": "src/baitap2.js",
     "scripts": {
-        "start": "node src/baitap1.js"
+        "start": "node src/baitap2.js"
     },
     "keywords": [
         "nodejs",
