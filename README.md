@@ -120,4 +120,3 @@ Bài tập Buổi 2 sử dụng **json-server** để tạo REST API server ảo
 - Server chạy tại `http://localhost:3000`
 - Tất cả các thao tác CRUD được thực hiện thông qua HTTP requests (GET, POST, PUT, DELETE)
 - Dữ liệu được tự động lưu vào `db.json` khi có thay đổi
-

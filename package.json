@@ -4,7 +4,8 @@
     "description": "Bài tập quản lý Posts và Comments trong Node.js",
     "main": "src/baitap2.js",
     "scripts": {
-        "start": "node src/baitap2.js"
+        "start": "node src/baitap2.js",
+        "server": "json-server --watch db.json --port 3000"
     },
     "keywords": [
         "nodejs",
@@ -12,5 +13,8 @@
         "exercises"
     ],
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.4"
+    }
 }
